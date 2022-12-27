@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import com.example.lesson04.bo.UserBO;
 
-@RequestMapping("lesson04/ex01")
+@RequestMapping("/lesson04/ex01")
 @Controller
 public class Lesson04Ex01Controller {
 
